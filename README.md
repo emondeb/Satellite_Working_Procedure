@@ -7,20 +7,20 @@ System specifications :
 
 Software Requirements:
 
---> Microsoft Visual C++ or Code::Blocks
+ --> Microsoft Visual C++ or Code::Blocks
 
---> OpenGL
+ --> OpenGL
 
 Hardware Requirements:
 
---> Graphics System
+ --> Graphics System
 
 Interaction with program:
 
 --> This program includes interaction through keyboard.
 
-   -> Press S to start.
+       -> Press S to start.
    
-   -> Press T to transmit the signal.
+       -> Press T to transmit the signal.
    
-   -> Press Q to quit.
+       -> Press Q to quit.
