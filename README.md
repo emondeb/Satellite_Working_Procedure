@@ -7,9 +7,9 @@ System specifications :
 
 Software Requirements:
 
- --> Microsoft Visual C++ or Code::Blocks
+       -> Microsoft Visual C++ or Code::Blocks
 
- --> OpenGL
+       -> OpenGL
 
 Hardware Requirements:
 
