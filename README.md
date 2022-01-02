@@ -13,7 +13,7 @@ Software Requirements:
 
 Hardware Requirements:
 
- --> Graphics System
+       -> Graphics System
  
 Knowledge Requirements:
 
